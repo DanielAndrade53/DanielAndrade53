@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Daniel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&theme=dracula)
 ![Daniel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&theme=tokyonight)
 
 ![Daniel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&theme=onedark)
