@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Daniel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&theme=merko)
+![Daniel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&theme=gruvbox)
 
 <!--
 **DanielAndrade53/DanielAndrade53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
