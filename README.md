@@ -2,6 +2,15 @@
 
 ![Daniel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&theme=tokyonight)
 
+###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/writing-hand_270d-fe0f.png" width="40px" /> Languages & Tools
+
+[![Skills](https://skillicons.dev/icons?i=haskell,c,cs,java,bash,powershell,git,github,clion,idea,visualstudio,vscode,linux,&perline=7)](https://skillicons.dev)
+
+<!-- Por enquanto esta este emoji do :boooks mas pretendo alterar para o da microsoft teams -->
+### <img src="https://emojicdn.elk.sh/📚" width="40px" /> Studying
+
+[![Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+
 <!--[](https://komarev.com/ghpvc/?username=DanielAndrade53&color=blueviolet&label=PROFILE+VIEWS&abbreviated=true) -->
 
 <!--
