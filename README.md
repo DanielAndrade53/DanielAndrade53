@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&theme=tokyonight" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielAndrade53&theme=algolia&show_icons=true" width="222.6px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielAndrade53&theme=algolia&show_icons=true" width="100px">
 </div>
 
 
