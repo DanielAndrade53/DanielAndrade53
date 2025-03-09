@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-![Daniel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&theme=tokyonight)
+<a href="https://github.com/DanielAndrade53/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="DanielAndrade53's github stats" />
+</a> 
+<a href="https://github.com/DanielAndrade53/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAndrade53&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
 
-[![Daniel Andrade's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=DanielAndrade53&theme=algolia&show_icons=true)](https://github.com/DanielAndrade53)
 
 ###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/writing-hand_270d-fe0f.png" width="40px" /> Languages & Tools
 
