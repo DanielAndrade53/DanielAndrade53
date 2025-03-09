@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/DanielAndrade53/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="DanielAndrade53's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielAndrade53&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="DanielAndrade53's github stats" />
 </a> 
 <a href="https://github.com/DanielAndrade53/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAndrade53&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAndrade53&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </a>
 
 
