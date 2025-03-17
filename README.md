@@ -10,7 +10,8 @@
 
 ###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/writing-hand_270d-fe0f.png" width="40px" /> Languages & Tools
 
-[![Skills](https://skillicons.dev/icons?i=haskell,c,cs,cpp,java,bash,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,linux,cmake,html,react,&perline=7)](https://skillicons.dev)
+<!-- [![Skills](https://skillicons.dev/icons?i=haskell,c,cs,cpp,java,bash,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,linux,cmake,html,react,&perline=7)](https://skillicons.dev) -->
+[![Skills](https://skillicons.dev/icons?i=haskell,c,cs,cpp,java,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,cmake,html,react,&perline=14)](https://skillicons.dev)
 
 <!-- Por enquanto esta este emoji do :boooks mas pretendo alterar para o da microsoft teams -->
 ### <img src="https://emojicdn.elk.sh/📚" width="40px" /> Studying
