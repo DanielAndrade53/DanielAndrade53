@@ -16,7 +16,7 @@
 <!-- Por enquanto esta este emoji do :boooks mas pretendo alterar para o da microsoft teams -->
 ### <img src="https://emojicdn.elk.sh/📚" width="40px" /> Studying
 
-[![Skills](https://skillicons.dev/icons?i=py,ocaml)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 <!--[](https://komarev.com/ghpvc/?username=DanielAndrade53&color=blueviolet&label=PROFILE+VIEWS&abbreviated=true) -->
 
