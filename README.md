@@ -1,7 +1,6 @@
 <div align="center">
 
 ### Hi there 👋
-### My name is Daniel
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
   
