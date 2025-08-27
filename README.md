@@ -18,14 +18,14 @@
 ###  <img src="https://em-content.zobj.net/source/microsoft-teams/337/writing-hand_270d-fe0f.png" width="40px" /> Languages & Tools
 
 <!-- [![Skills](https://skillicons.dev/icons?i=haskell,c,cs,cpp,java,bash,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,linux,cmake,html,react,&perline=7)](https://skillicons.dev) -->
-[![Skills](https://skillicons.dev/icons?i=haskell,c,cs,cpp,java,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,cmake,html,react,&perline=14)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=haskell,c,cs,cpp,java,python,powershell,git,github,clion,pycharm,idea,visualstudio,vscode,cmake,html,react,&perline=14)](https://skillicons.dev)
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
 
 <!-- Por enquanto esta este emoji do :boooks mas pretendo alterar para o da microsoft teams -->
 ### <img src="https://emojicdn.elk.sh/📚" width="40px" /> Studying
 
-[![Skills](https://skillicons.dev/icons?i=py,&perline=14)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=go,docker,aws,&perline=14)](https://skillicons.dev)
 
 <!--[](https://komarev.com/ghpvc/?username=DanielAndrade53&color=blueviolet&label=PROFILE+VIEWS&abbreviated=true) -->
 
