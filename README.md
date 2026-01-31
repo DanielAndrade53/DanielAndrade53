@@ -1,14 +1,12 @@
 <div align="center">
 
-![Stats](./profile/stats.svg)
-
-
-
 ### Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
   
-![Stats](./profile/stats.svg)
+<a href="https://github.com/your-username">
+  <img align="center" src="profile/stats.svg" alt="My github stats" />
+</a>
 
 <a href="https://github.com/DanielAndrade53/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAndrade53&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
