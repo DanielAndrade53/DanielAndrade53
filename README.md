@@ -1,5 +1,10 @@
 <div align="center">
 
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
+
 ### Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:74b5fa,50:4493f8,100:beaafc&height=5&width=100&section=divider&animation=blinking"/>
