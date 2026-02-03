@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/DanielAndrade53/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAndrade53&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img align="center" src="profile/top-langs.svg" />
 </a>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielAndrade53&bg_color=0D1117&color=00FF00&line=4493f8&point=00FF00&area=true&hide_border=true&title_color=00FF00" alt="GitHub Activity Graph"/>
